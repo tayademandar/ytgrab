@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.mp4
+*.mkv
+*.webm
+*.m4a
+.DS_Store
+Thumbs.db
