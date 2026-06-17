@@ -6,13 +6,11 @@ Download any YouTube video or Short in the highest quality. Output is always MP4
 
 ---
 
-## Setup
+## Download
 
-1. Install [Python](https://www.python.org/downloads/) — tick **"Add Python to PATH"** during install
-2. Download this repo as a ZIP → unzip it
-3. Double-click **`ytgrab.bat`**
+**[→ Download ytgrab.exe](https://github.com/tayademandar/ytgrab/releases/latest)**
 
-That's it. Dependencies install automatically on first launch.
+Double-click it. That's all — no install, no setup.
 
 ---
 
@@ -23,6 +21,17 @@ That's it. Dependencies install automatically on first launch.
 3. Click **Download**
 
 Works with regular videos and Shorts.
+
+---
+
+## For Python users
+
+```bash
+git clone https://github.com/tayademandar/ytgrab.git
+cd ytgrab
+pip install -r requirements.txt
+python ytgrab.py
+```
 
 ---
 
